@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Frontend Party Contact
+    url: frontendparty@gmail.com
+    about: Reach out with any questions (but actually just make a GH issue).
+  - name: FEP Meme Twitter
+    url: https://x.com/FrontEndParty
+    about: Please report security vulnerabilities here.
